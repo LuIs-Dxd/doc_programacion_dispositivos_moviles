@@ -17,7 +17,7 @@ Recursos adicionales:
 
 ## Xamarin
 
-![Xamarin Logo](https://miro.medium.com/max/2560/1*r6a7s9kNpnN1e-C8H1zN2Q.png)
+![Xamarin Logo](https://static-00.iconduck.com/assets.00/xamarin-icon-512x454-qyapgz6t.png)
 
 [Xamarin](https://dotnet.microsoft.com/apps/xamarin) es un framework de desarrollo de aplicaciones móviles basado en .NET. Permite crear aplicaciones nativas para iOS, Android y Windows utilizando el lenguaje de programación C#.
 
@@ -27,7 +27,7 @@ Recursos adicionales:
 
 ## React Native
 
-![React Native Logo](https://miro.medium.com/max/1200/1*L7MmxJCVe2ERvWey4oj3FQ.png)
+![React Native Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png)
 
 [React Native](https://reactnative.dev/) es un framework de desarrollo de aplicaciones móviles creado por Facebook. Utiliza JavaScript y permite crear aplicaciones nativas para iOS y Android utilizando componentes de interfaz de usuario de React.
 
@@ -47,7 +47,7 @@ Recursos adicionales:
 
 ## Swiftic
 
-![Swiftic Logo](https://www.swiftic.com/images/site/logo-swiftic.png)
+![Swiftic Logo](https://www.savvysme.com.au/img/upload/images/swifticcom.jpg)
 
 [Swiftic](https://www.swiftic.com/) (anteriormente conocido como Como) es una plataforma de creación de aplicaciones móviles en la nube que permite a los usuarios crear aplicaciones nativas para iOS y Android sin necesidad de conocimientos de programación.
 
