@@ -1,3 +1,20 @@
+# Uso de Redux y Context en React
+
+## Redux
+
+Redux es una biblioteca de administración del estado en JavaScript que se utiliza comúnmente con React. ...
+
+![Redux](path/to/redux-image.jpg)
+
+## Context
+
+Context es una característica de React que proporciona una forma de compartir datos entre componentes sin tener que pasar explícitamente las propiedades a través de múltiples niveles de la jerarquía de componentes. ...
+
+![Context](path/to/context-image.jpg)
+
+En resumen, Redux es una biblioteca independiente que ofrece una forma estructurada y predecible de administrar el estado en aplicaciones React, mientras que Context es una característica de React que permite compartir datos entre componentes de manera más conveniente, pero puede ser menos adecuada para aplicaciones grandes y complejas.
+
+
 from __future__ import annotations
 from abc import ABC, abstractmethod
 
